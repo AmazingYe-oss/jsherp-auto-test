@@ -1,0 +1,7 @@
+cryptography
+pymysql
+pytest
+pytest-playwright
+python-dotenv
+requests
+allure-pytest

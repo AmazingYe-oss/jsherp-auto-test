@@ -1,0 +1,18 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+*.py[cod]
+test-results/
+reports/
+
+# 本地过程记录与个人笔记（不提交至远程仓库）
+PLAN*.md
+*HANDOFF*
+INTERVIEW_NOTES.md
+TEST_CASES.md
+TEST_REPORT.md
+stage3_*
+docs/
+evidence/
+tests/test_probe_*.py

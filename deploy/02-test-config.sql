@@ -1,0 +1,3 @@
+-- Compatibility mount for the EXISTING initialized ERP volume only.
+-- Original test initialization SQL was missing; it has NOT been recovered.
+-- No SQL is executed here. This file does not recreate a fresh environment.
